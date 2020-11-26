@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "86094E84-8197-4AC4-AC4B-54A0CF801F53"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8E62A87-AA3B-45F4-8892-EB8060116716"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpaceCapsule/BackgroundMusic/ViewController/CategorySolarSystemViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CategorySolarSystemViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A8E62A87-AA3B-45F4-8892-EB8060116716 - 9aabad4b82741152"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpaceCapsule.CategorySolarSystemViewController.image.getter : Swift.Array&lt;Swift.Optional&lt;__C.UIImage&gt;&gt;"
+                  moduleName = "SpaceCapsule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/windy/MyDocuments/Academy/Xcode/PrototypeApp1/SpaceCapsule/SpaceCapsule/BackgroundMusic/ViewController/CategorySolarSystemViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "A8E62A87-AA3B-45F4-8892-EB8060116716 - b20c46dab1653046"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpaceCapsule.CategorySolarSystemViewController.image.setter : Swift.Array&lt;Swift.Optional&lt;__C.UIImage&gt;&gt;"
+                  moduleName = "SpaceCapsule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/windy/MyDocuments/Academy/Xcode/PrototypeApp1/SpaceCapsule/SpaceCapsule/BackgroundMusic/ViewController/CategorySolarSystemViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "A8E62A87-AA3B-45F4-8892-EB8060116716 - 673f02faaa935917"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpaceCapsule.CategorySolarSystemViewController.image.modify : Swift.Array&lt;Swift.Optional&lt;__C.UIImage&gt;&gt;"
+                  moduleName = "SpaceCapsule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/windy/MyDocuments/Academy/Xcode/PrototypeApp1/SpaceCapsule/SpaceCapsule/BackgroundMusic/ViewController/CategorySolarSystemViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "A8E62A87-AA3B-45F4-8892-EB8060116716 - fbe687db5174b65a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpaceCapsule.CategorySolarSystemViewController.image.modify : Swift.Array&lt;Swift.Optional&lt;__C.UIImage&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SpaceCapsule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/windy/MyDocuments/Academy/Xcode/PrototypeApp1/SpaceCapsule/SpaceCapsule/BackgroundMusic/ViewController/CategorySolarSystemViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "A8E62A87-AA3B-45F4-8892-EB8060116716 - 9f3173c56973b3ad"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpaceCapsule.CategorySolarSystemViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SpaceCapsule.CategorySolarSystemViewController"
+                  moduleName = "SpaceCapsule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/windy/MyDocuments/Academy/Xcode/PrototypeApp1/SpaceCapsule/SpaceCapsule/BackgroundMusic/ViewController/CategorySolarSystemViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "189">
+               </Location>
+               <Location
+                  uuid = "A8E62A87-AA3B-45F4-8892-EB8060116716 - 540c70628581eeb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpaceCapsule.CategorySolarSystemViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SpaceCapsule.CategorySolarSystemViewController&gt;"
+                  moduleName = "SpaceCapsule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/windy/MyDocuments/Academy/Xcode/PrototypeApp1/SpaceCapsule/SpaceCapsule/BackgroundMusic/ViewController/CategorySolarSystemViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "114">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
